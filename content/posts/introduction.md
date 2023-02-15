@@ -65,10 +65,3 @@ Tools den zukünftigen Bibliothekar:innen und Archivar:innen bekannt sind. So gi
 in der Zukunft ändern wird.
 
 Gleichzeitig gibt es mir die Chance diese Dokumentation in einem sinnvollen Rahmen zusammenzustellen.
-
-### Wichtige Links
-
-- https://gohugo.io/
-- https://gohugo.io/hosting-and-deployment/hosting-on-github/
-- https://shotor.com/blog/build-a-hugo-static-site-in-your-browser-using-github-codespaces/
-- https://github.com/marketplace/actions/hugo-setup
