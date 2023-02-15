@@ -19,17 +19,16 @@ Dort verwende ich Services die auf Kafka aufbauen in einer Pipeline wo jeder Ser
 
 ### Applikationen
 
-- VuFind
-- Solr / Elasticsearch
-- Drupal
-- Fedora
-- Eprints
-- Fuseki (SPARQL)
+- VuFind. Ein Framework für Kataloge von Bibliotheken. Wurde verwendet für swissbib und nun für swisscollections. 
+- Solr / Elasticsearch. Suchmaschinen die eine API anbieten mit der man die indexierten Daten schnell und effizient durchsuchen kann. Grundlage für alle Webseiten die Suche implementieren. Ich bin vor allem mit Elasticsearch vertraut.
+- [Fedora](https://fedora.lyrasis.org/). Eine open source Server Applikation die das verwalten von Archivdaten ermöglicht. Die Platform unterstützt auch das speichern von Linked Date Nativ. Wird bei uns bei verschiedenen Projekten eingesetzt. 
+- [Eprints](https://www.eprints.org/uk/). Wird von Edoc verwendet. Ich habe diese Software verwendet aber auch system administration betrieben. Wird Ende Jahr von DSpace abgelöst.
+- [Fuseki](https://jena.apache.org/documentation/fuseki2/) (SPARQL). Einfacher und langsamer SPRQL Webserver der bei uns für ein kleines Projekt verwendet wurde. Dieses Projekt wird aber jetzt nicht mehr deployed.
 
 ### Infrastruktur
 
-- Kafka
-- Flink, Spark
+- [Kafka](https://kafka.apache.org/). Das Herz unser Datenverarbeitungsarchitektur von vor allem Memobase. 
+- [Flink](https://flink.apache.org/), [Spark](https://spark.apache.org/). Batch und streaming Plattformen die wir im Moment nicht mehr verwenden, weil wir primär auf Kafka setzten.
 
 ### Datenverarbeitung
 
@@ -40,9 +39,9 @@ Dort verwende ich Services die auf Kafka aufbauen in einer Pipeline wo jeder Ser
 
 ### API Standards
 
-- OAI-PMH
-- SRU
-- IIIF
+- [OAI-PMH](https://www.openarchives.org/pmh/). Diesen Standard verwenden wir in vielen verschiedenen Schnittstellen um Daten zu holen und zu liefern. Zum Beispiel alle Daten aus Alma kommen von der OAI Schnittstelle.
+- [SRU](https://www.loc.gov/standards/sru/). Ein Standard für das Suchen von Metadaten. Wurde von uns bei swissbib Angeboten. Ist im Moment nicht mehr im Einsatz.
+- [IIIF](https://iiif.io/). Wird verwendet um Bilder im Web zur Verfügung zu stellen. Insbesondere von Digialisaten auch bei Memobase. Infrastruktur befindet sich aber immer noch im Aufbau.
 
 ### Metadatenstandards / Datensets
 
