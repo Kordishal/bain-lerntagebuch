@@ -1,3 +1,4 @@
 baseURL = 'https://kordishal.github.io/bain-lerntagebuch'
 languageCode = 'en-us'
 title = 'BAIN - Lerntagebuch'
+theme = 'themes/ananke'
