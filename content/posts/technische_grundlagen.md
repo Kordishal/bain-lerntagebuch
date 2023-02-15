@@ -2,6 +2,7 @@
 title: "01 Technische Grundlagen"
 date: 2023-02-15T09:45:35Z
 draft: false
+toc: true
 ---
 Der Kurs wird eingeleitet mit den technischen Grundlagen ein, welche bei der Durchführung des Kurses verwendet werden. 
 Die Unterlagen im Kurs werden in [HedgeDoc](https://hedgedoc.org/) zur Verfügung gestellt. Damit können die Studierenden
@@ -47,3 +48,5 @@ Damit hatte ich nun eine funktionierende Webseite publiziert und konnte mit dem 
 - Hosting on GitHub: https://gohugo.io/hosting-and-deployment/hosting-on-github/
 - Hugo in Codespaces: https://shotor.com/blog/build-a-hugo-static-site-in-your-browser-using-github-codespaces/
 - Hugo Github Action: https://github.com/marketplace/actions/hugo-setup
+- Ananke Docs: https://themes.gohugo.io/themes/gohugo-theme-ananke/
+- Ananke Demo: https://gohugo-ananke-theme-demo.netlify.app/
