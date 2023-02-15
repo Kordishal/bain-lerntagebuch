@@ -1,10 +1,14 @@
 ---
-title: "Introduction"
+title: "Einführung"
 date: 2023-02-15T08:10:30Z
-draft: true
 ---
 
-### Important Links
+# Eine Einführung
+
+Dies ist mein Lerntagbuch für den Kurs Bibliotheks und Archivinformatik (BAIN). Diese erste Seite bildet eine Übersicht
+als Einstieg.
+
+### Wichtige Links
 
 - https://gohugo.io/
 - https://gohugo.io/hosting-and-deployment/hosting-on-github/
