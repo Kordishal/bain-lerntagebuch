@@ -2,10 +2,7 @@
 title: "Einführung"
 date: 2023-02-15T08:10:30Z
 ---
-
-# Eine Einführung
-
-Dies ist mein Lerntagbuch für den Kurs Bibliotheks- und Archivinformatik (BAIN). Diese erste Seite bildet eine Übersicht
+Dies ist mein Lerntagebuch für den Kurs Bibliotheks- und Archivinformatik (BAIN). Diese erste Seite bildet eine Übersicht
 als Einstieg. In der Vorlesung lernen wir verschiedene Systeme kenne die in der Branche verwendet werden
 und wie diese Verbunden werden.
 
